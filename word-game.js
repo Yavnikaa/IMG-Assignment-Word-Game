@@ -6,7 +6,37 @@ var dictionary = [
     "HAPPY",
     "JAVASCRIPT",
     "LAB",
-    "MONEY"
+    "MONEY",
+    "KALEIDOSCOPE",
+    "AIRCRAFT CARRIER",
+    " Surveyor",
+"Swimming Pool",
+
+"Sword",
+
+"Table",
+
+"Tapestry",
+
+"Teeth",
+"Telescope"
+
+"Television"
+
+"Tennis racquet"
+
+"Thermometer"
+
+"Tiger"
+
+"Toilet"
+
+"Tongue"
+
+"Torch"
+
+"Torpedo"
+    
 ];
 var myWord;
 
